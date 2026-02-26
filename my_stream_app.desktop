@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Streamer Stand
+Comment=Запускает приложение для отображения стрима и медиафайлов
+Exec=/usr/bin/python3 /home/sverk1/Desktop/test_stand/stream_and_video.py
+Terminal=true
+Type=Application
+Categories=Application;
+StartupNotify=true
