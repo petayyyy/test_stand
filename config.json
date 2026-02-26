@@ -1,0 +1,10 @@
+{
+  "stream_url": "http://192.168.1.58:7777/",
+  "stream_seconds": 5,
+  "video_seconds": 10,
+  "image_display_seconds": 5,
+  "media_folder": "media",
+  "config_check_interval": 1,
+  "display_width": 1024,
+  "display_height": 600
+}
